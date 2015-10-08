@@ -1,2 +1,0 @@
-# resume
-Markdown format Resume
